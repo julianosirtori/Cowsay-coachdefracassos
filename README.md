@@ -1,4 +1,4 @@
-## Cowsay @coachdefracassos
+## :cow: Cowsay @coachdefracassos
 
 ```
  ________________________
